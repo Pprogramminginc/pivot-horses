@@ -46,6 +46,10 @@ supabase/.temp/
 # Local-only unused audio source that GitHub rejects during pack upload.
 assets/audio/stable_ambience.wav
 
+# Local-only generated preview/demo images.
+horse_compile_preview_board.png
+horse_composite_demo*.png
+
 # Symbolication related
 app.*.symbols
 
