@@ -43,6 +43,9 @@ supabase/.temp/
 *.pem
 *.key
 
+# Local-only unused audio source that GitHub rejects during pack upload.
+assets/audio/stable_ambience.wav
+
 # Symbolication related
 app.*.symbols
 
